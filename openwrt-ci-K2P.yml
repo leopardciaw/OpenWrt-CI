@@ -10,8 +10,8 @@
 name: OpenWrt-CI第1次编辑
 
 on:
-  push:
-    branches: 
+ # push:
+ #   branches: 
       - master
   # schedule:
   #   - cron: 0 20 * * *
